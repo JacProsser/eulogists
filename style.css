@@ -326,7 +326,7 @@ body {
 .button {
   display: inline-block;
   padding: 10px 30px;
-  background-color: #fd5927;
+  background-color: #56ccf2;
   border: none;
   color: white;
   text-decoration: none;
@@ -340,7 +340,7 @@ body {
 }
 /* line 15, sass/libs/_component.scss */
 .button.primary {
-  background-color: #fd5927;
+  background-color: #56ccf2;
 }
 /* line 17, sass/libs/_component.scss */
 .button.primary:hover {
@@ -361,14 +361,14 @@ body {
 }
 /* line 33, sass/libs/_component.scss */
 .button.cut-corner {
-  background: -webkit-linear-gradient(90deg, #fd5927, #fd5927) top left,
-    -webkit-linear-gradient(90deg, #fd5927, #fd5927) top right,
-    -webkit-linear-gradient(135deg, transparent 10px, #fd5927 0) bottom right,
-    -webkit-linear-gradient(90deg, #fd5927, #fd5927) bottom left;
-  background: linear-gradient(0deg, #fd5927, #fd5927) top left,
-    linear-gradient(0deg, #fd5927, #fd5927) top right,
-    linear-gradient(315deg, transparent 10px, #fd5927 0) bottom right,
-    linear-gradient(0deg, #fd5927, #fd5927) bottom left;
+  background: -webkit-linear-gradient(90deg, #56ccf2, #56ccf2) top left,
+    -webkit-linear-gradient(90deg, #56ccf2, #56ccf2) top right,
+    -webkit-linear-gradient(135deg, transparent 10px, #56ccf2 0) bottom right,
+    -webkit-linear-gradient(90deg, #56ccf2, #56ccf2) bottom left;
+  background: linear-gradient(0deg, #56ccf2, #56ccf2) top left,
+    linear-gradient(0deg, #56ccf2, #56ccf2) top right,
+    linear-gradient(315deg, transparent 10px, #56ccf2 0) bottom right,
+    linear-gradient(0deg, #56ccf2, #56ccf2) bottom left;
   background-size: 55% 55%;
   background-repeat: no-repeat;
 }
@@ -2319,7 +2319,7 @@ body {
 .main-navigation .toggle-menu:hover,
 .main-navigation .toggle-menu:active,
 .main-navigation .toggle-menu.active {
-  color: #fd5927;
+  color: #56ccf2;
 }
 @media screen and (max-width: 640px) {
   /* line 30, sass/layout/_header.scss */
@@ -2362,7 +2362,7 @@ body {
   opacity: 0;
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
-  border-bottom: 4px solid #fd5927;
+  border-bottom: 4px solid #56ccf2;
   -webkit-transition: 0.3s ease;
   transition: 0.3s ease;
 }
@@ -2378,7 +2378,7 @@ body {
 /* line 80, sass/layout/_header.scss */
 .main-navigation .menu .menu-item:hover a,
 .main-navigation .menu .menu-item.current-menu-item a {
-  color: #fd5927;
+  color: #56ccf2;
 }
 /* line 84, sass/layout/_header.scss */
 .main-navigation .menu a {
@@ -2431,11 +2431,11 @@ body {
 }
 /* line 124, sass/layout/_header.scss */
 .mobile-menu .menu a:hover {
-  color: #fd5927;
+  color: #56ccf2;
 }
 /* line 126, sass/layout/_header.scss */
 .mobile-menu .menu .current-menu-item a {
-  color: #fd5927;
+  color: #56ccf2;
 }
 
 /* 
@@ -2535,15 +2535,15 @@ body {
   left: 0;
   top: 0;
   width: 70px;
-  background: #fd5927;
-  background: -webkit-linear-gradient(90deg, #fd5927, #fd5927) top left,
-    -webkit-linear-gradient(90deg, #fd5927, #fd5927) top right,
-    -webkit-linear-gradient(135deg, transparent 10px, #fd5927 0) bottom right,
-    -webkit-linear-gradient(90deg, #fd5927, #fd5927) bottom left;
-  background: linear-gradient(0deg, #fd5927, #fd5927) top left,
-    linear-gradient(0deg, #fd5927, #fd5927) top right,
-    linear-gradient(315deg, transparent 10px, #fd5927 0) bottom right,
-    linear-gradient(0deg, #fd5927, #fd5927) bottom left;
+  background: #56ccf2;
+  background: -webkit-linear-gradient(90deg, #56ccf2, #56ccf2) top left,
+    -webkit-linear-gradient(90deg, #56ccf2, #56ccf2) top right,
+    -webkit-linear-gradient(135deg, transparent 10px, #56ccf2 0) bottom right,
+    -webkit-linear-gradient(90deg, #56ccf2, #56ccf2) bottom left;
+  background: linear-gradient(0deg, #56ccf2, #56ccf2) top left,
+    linear-gradient(0deg, #56ccf2, #56ccf2) top right,
+    linear-gradient(315deg, transparent 10px, #56ccf2 0) bottom right,
+    linear-gradient(0deg, #56ccf2, #56ccf2) bottom left;
   background-size: 55% 55%;
   background-repeat: no-repeat;
   color: white;
@@ -2592,7 +2592,7 @@ body {
 }
 /* line 127, sass/layout/_content.scss */
 .content .post .entry-title a:hover {
-  color: #fd5927;
+  color: #56ccf2;
 }
 /* line 130, sass/layout/_content.scss */
 .content .post p {
@@ -2600,7 +2600,7 @@ body {
 }
 /* line 131, sass/layout/_content.scss */
 .content .post a {
-  color: #fd5927;
+  color: #56ccf2;
   text-decoration: none;
 }
 
@@ -2640,7 +2640,7 @@ body {
 .contact-form input[type="submit"] {
   float: right;
   width: auto;
-  background-color: #fd5927;
+  background-color: #56ccf2;
 }
 /* line 159, sass/layout/_content.scss */
 .contact-form textarea {
@@ -2651,7 +2651,7 @@ body {
 .map-wrapper address {
   font-style: normal;
   background: #353535;
-  border-bottom: 3px solid #fd5927;
+  border-bottom: 3px solid #56ccf2;
   padding: 10px;
   color: white;
 }
@@ -2664,7 +2664,7 @@ body {
 }
 /* line 176, sass/layout/_content.scss */
 .map-wrapper address a:hover {
-  color: #fd5927;
+  color: #56ccf2;
 }
 
 /* line 2, sass/layout/_sidebar.scss */
@@ -2722,7 +2722,7 @@ body {
 }
 /* line 48, sass/layout/_sidebar.scss */
 .discography-list .detail h3 a {
-  color: #fd5927;
+  color: #56ccf2;
   text-decoration: none;
 }
 /* line 53, sass/layout/_sidebar.scss */
@@ -2896,7 +2896,7 @@ body {
 }
 /* line 36, sass/pages/_homepage.scss */
 .slider .slides .slide-subtitle {
-  color: #fd5927;
+  color: #56ccf2;
   font-size: 48px;
   font-size: 3em;
   font-weight: 300;
@@ -2998,7 +2998,7 @@ body {
 /* line 116, sass/pages/_homepage.scss */
 .quote-slider blockquote cite {
   display: block;
-  color: #fd5927;
+  color: #56ccf2;
   font-size: 24px;
   font-size: 1.5em;
   font-weight: 100;
@@ -3037,7 +3037,7 @@ body {
 }
 /* line 145, sass/pages/_homepage.scss */
 .quote-slider .flex-direction-nav a:hover {
-  background-color: #fd5927;
+  background-color: #56ccf2;
 }
 
 /* line 152, sass/pages/_homepage.scss */
@@ -3097,7 +3097,7 @@ body {
 }
 /* line 186, sass/pages/_homepage.scss */
 .event-nav a:hover {
-  background-color: #fd5927;
+  background-color: #56ccf2;
 }
 
 /* line 191, sass/pages/_homepage.scss */
@@ -3111,15 +3111,15 @@ body {
   left: 0;
   top: 0;
   width: 70px;
-  background: #fd5927;
-  background: -webkit-linear-gradient(90deg, #fd5927, #fd5927) top left,
-    -webkit-linear-gradient(90deg, #fd5927, #fd5927) top right,
-    -webkit-linear-gradient(135deg, transparent 10px, #fd5927 0) bottom right,
-    -webkit-linear-gradient(90deg, #fd5927, #fd5927) bottom left;
-  background: linear-gradient(0deg, #fd5927, #fd5927) top left,
-    linear-gradient(0deg, #fd5927, #fd5927) top right,
-    linear-gradient(315deg, transparent 10px, #fd5927 0) bottom right,
-    linear-gradient(0deg, #fd5927, #fd5927) bottom left;
+  background: #56ccf2;
+  background: -webkit-linear-gradient(90deg, #56ccf2, #56ccf2) top left,
+    -webkit-linear-gradient(90deg, #56ccf2, #56ccf2) top right,
+    -webkit-linear-gradient(135deg, transparent 10px, #56ccf2 0) bottom right,
+    -webkit-linear-gradient(90deg, #56ccf2, #56ccf2) bottom left;
+  background: linear-gradient(0deg, #56ccf2, #56ccf2) top left,
+    linear-gradient(0deg, #56ccf2, #56ccf2) top right,
+    linear-gradient(315deg, transparent 10px, #56ccf2 0) bottom right,
+    linear-gradient(0deg, #56ccf2, #56ccf2) bottom left;
   background-size: 55% 55%;
   background-repeat: no-repeat;
   color: white;
@@ -3234,11 +3234,11 @@ body {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  border: 1px solid #fd5927;
+  border: 1px solid #56ccf2;
   padding: 10px 20px;
   border-radius: 0;
   background: none;
-  color: #fd5927;
+  color: #56ccf2;
   font-weight: 400;
   text-transform: uppercase;
   font-size: 12px;
@@ -3279,8 +3279,8 @@ body {
 /* line 42, sass/pages/_gallery.scss */
 .filter-links a.current,
 .filter-links a:hover {
-  border: 1px solid #fd5927;
-  color: #fd5927;
+  border: 1px solid #56ccf2;
+  color: #56ccf2;
 }
 @media screen and (max-width: 480px) {
   /* line 27, sass/pages/_gallery.scss */
@@ -3373,7 +3373,7 @@ body {
 }
 /* line 15, sass/pages/_download.scss */
 .item .item-title {
-  color: #fd5927;
+  color: #56ccf2;
   font-weight: 400;
   margin: 0;
 }
@@ -3410,7 +3410,7 @@ body {
 }
 /* line 43, sass/pages/_download.scss */
 .item .social-share a:hover {
-  color: #fd5927;
+  color: #56ccf2;
 }
 
 /*# sourceMappingURL=style.css.map */
