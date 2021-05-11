@@ -3195,6 +3195,7 @@ body {
 
 /* line 6, sass/pages/_post.scss */
 .content .entry-title {
+  font-family: 'Reggae One', cursive;
   margin-top: 0;
   margin-bottom: 30px;
   font-size: 36px;
