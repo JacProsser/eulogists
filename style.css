@@ -336,7 +336,7 @@ body {
 }
 /* line 11, sass/libs/_component.scss */
 .button:hover {
-  background-color: #fd805a;
+  background-color: #6ccbeb;
 }
 /* line 15, sass/libs/_component.scss */
 .button.primary {
@@ -344,7 +344,7 @@ body {
 }
 /* line 17, sass/libs/_component.scss */
 .button.primary:hover {
-  background-color: #fd805a;
+  background-color: #6ccbeb;
 }
 /* line 21, sass/libs/_component.scss */
 .button.secondary {
@@ -374,14 +374,14 @@ body {
 }
 /* line 41, sass/libs/_component.scss */
 .button.cut-corner:hover {
-  background: -webkit-linear-gradient(90deg, #fd805a, #fd805a) top left,
-    -webkit-linear-gradient(90deg, #fd805a, #fd805a) top right,
-    -webkit-linear-gradient(135deg, transparent 10px, #fd805a 0) bottom right,
-    -webkit-linear-gradient(90deg, #fd805a, #fd805a) bottom left;
-  background: linear-gradient(0deg, #fd805a, #fd805a) top left,
-    linear-gradient(0deg, #fd805a, #fd805a) top right,
-    linear-gradient(315deg, transparent 10px, #fd805a 0) bottom right,
-    linear-gradient(0deg, #fd805a, #fd805a) bottom left;
+  background: -webkit-linear-gradient(90deg, #6ccbeb, #6ccbeb) top left,
+    -webkit-linear-gradient(90deg, #6ccbeb, #6ccbeb) top right,
+    -webkit-linear-gradient(135deg, transparent 10px, #6ccbeb 0) bottom right,
+    -webkit-linear-gradient(90deg, #6ccbeb, #6ccbeb) bottom left;
+  background: linear-gradient(0deg, #6ccbeb, #6ccbeb) top left,
+    linear-gradient(0deg, #6ccbeb, #6ccbeb) top right,
+    linear-gradient(315deg, transparent 10px, #6ccbeb 0) bottom right,
+    linear-gradient(0deg, #6ccbeb, #6ccbeb) bottom left;
   background-size: 55% 55%;
   background-repeat: no-repeat;
 }
